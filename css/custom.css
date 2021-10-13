@@ -1,0 +1,35 @@
+/* Custom styling and bootstrap overrride */
+
+
+/* Background color overrride */
+
+/* Custom styling */
+.horizontal-center-left {
+    left: 5%;
+}
+
+.horizontal-center-right {
+    right: 5%;
+}
+
+.text-align-left {
+    transform: translateX(-65%);
+}
+
+.text-align-right {
+    transform: translateX(-33%);
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+    max-width: 60rem;
+    font-weight: 600;
+    font-size: 3.5rem;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    max-width: 30rem;
+    line-height: 1.4;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
